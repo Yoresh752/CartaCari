@@ -1,2 +1,1 @@
-# CartaCari
-Created with CodeSandbox
+https://codesandbox.io/p/sandbox/carta-para-mi-beba-xd4h8r
